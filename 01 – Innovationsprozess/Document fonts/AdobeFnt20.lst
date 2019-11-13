@@ -1,0 +1,161 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AktivGrotesk-Bold
+FamilyName:Aktiv Grotesk
+StyleName:Bold
+MenuName:Aktiv Grotesk
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Aktiv Grotesk Bold
+WritingScript:Roman
+OutlineFileName:/Users/jensedler/Library/Mobile Documents/com~apple~CloudDocs/WAGO/Kickbox/01a EMPOWER KIT 1red Level Cards DE Ordner/Document fonts/AktivGrotesk.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:508364
+FileModTime:501592090
+NameArray:0,Mac,18,Aktiv Grotesk Bold
+NameArray:0,Mac,4,Aktiv Grotesk Bold
+NameArray:0,Win,1,Aktiv Grotesk
+NameArray:0,Win,16,Aktiv Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/jensedler/Library/Mobile Documents/com~apple~CloudDocs/WAGO/Kickbox/01a EMPOWER KIT 1red Level Cards DE Ordner/Document fonts/AdobeFnt20.lst
+FileLength:4452
+FileModTime:591286067
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AktivGrotesk-LightItalic
+FamilyName:Aktiv Grotesk
+StyleName:Light Italic
+MenuName:Aktiv Grotesk Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Aktiv Grotesk Light Italic
+WritingScript:Roman
+OutlineFileName:/Users/jensedler/Library/Mobile Documents/com~apple~CloudDocs/WAGO/Kickbox/01a EMPOWER KIT 1red Level Cards DE Ordner/Document fonts/AktivGrotesk_LtIt.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:280444
+FileModTime:501592102
+NameArray:0,Mac,18,Aktiv Grotesk Light Italic
+NameArray:0,Mac,4,Aktiv Grotesk Light Italic
+NameArray:0,Win,1,Aktiv Grotesk Light
+NameArray:0,Win,16,Aktiv Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AktivGrotesk-MediumItalic
+FamilyName:Aktiv Grotesk
+StyleName:Medium Italic
+MenuName:Aktiv Grotesk Medium
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Aktiv Grotesk Medium Italic
+WritingScript:Roman
+OutlineFileName:/Users/jensedler/Library/Mobile Documents/com~apple~CloudDocs/WAGO/Kickbox/01a EMPOWER KIT 1red Level Cards DE Ordner/Document fonts/AktivGrotesk_MdIt.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:274804
+FileModTime:501592108
+NameArray:0,Mac,18,Aktiv Grotesk Medium Italic
+NameArray:0,Mac,4,Aktiv Grotesk Medium Italic
+NameArray:0,Win,1,Aktiv Grotesk Medium
+NameArray:0,Win,16,Aktiv Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AktivGrotesk-Medium
+FamilyName:Aktiv Grotesk
+StyleName:Medium
+MenuName:Aktiv Grotesk Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Aktiv Grotesk Medium
+WritingScript:Roman
+OutlineFileName:/Users/jensedler/Library/Mobile Documents/com~apple~CloudDocs/WAGO/Kickbox/01a EMPOWER KIT 1red Level Cards DE Ordner/Document fonts/AktivGrotesk_Md.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:507960
+FileModTime:501592104
+NameArray:0,Mac,18,Aktiv Grotesk Medium
+NameArray:0,Mac,4,Aktiv Grotesk Medium
+NameArray:0,Win,1,Aktiv Grotesk Medium
+NameArray:0,Win,16,Aktiv Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AktivGrotesk-Light
+FamilyName:Aktiv Grotesk
+StyleName:Light
+MenuName:Aktiv Grotesk Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Aktiv Grotesk Light
+WritingScript:Roman
+OutlineFileName:/Users/jensedler/Library/Mobile Documents/com~apple~CloudDocs/WAGO/Kickbox/01a EMPOWER KIT 1red Level Cards DE Ordner/Document fonts/AktivGrotesk_Lt.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:511132
+FileModTime:501592100
+NameArray:0,Mac,18,Aktiv Grotesk Light
+NameArray:0,Mac,4,Aktiv Grotesk Light
+NameArray:0,Win,1,Aktiv Grotesk Light
+NameArray:0,Win,16,Aktiv Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AktivGrotesk-Regular
+FamilyName:Aktiv Grotesk
+StyleName:Regular
+MenuName:Aktiv Grotesk
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Aktiv Grotesk
+WritingScript:Roman
+OutlineFileName:/Users/jensedler/Library/Mobile Documents/com~apple~CloudDocs/WAGO/Kickbox/01a EMPOWER KIT 1red Level Cards DE Ordner/Document fonts/AktivGrotesk_Rg.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:505944
+FileModTime:501592112
+NameArray:0,Mac,18,Aktiv Grotesk
+NameArray:0,Mac,4,Aktiv Grotesk
+NameArray:0,Win,1,Aktiv Grotesk
+NameArray:0,Win,16,Aktiv Grotesk
+%EndFont
+

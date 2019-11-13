@@ -1,0 +1,92 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/jensedler/Library/Mobile Documents/com~apple~CloudDocs/kickbox_files/Kickbox Materials - German/04 NABC CANVAS A3 GERMAN/Document fonts/AdobeFnt20.lst
+FileLength:2567
+FileModTime:593009542
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-Regular
+FamilyName:Source Sans Pro
+StyleName:Regular
+MenuName:Source Sans Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Source Sans Pro
+WritingScript:Roman
+OutlineFileName:/Users/jensedler/Library/Mobile Documents/com~apple~CloudDocs/kickbox_files/Kickbox Materials - German/04 NABC CANVAS A3 GERMAN/Document fonts/SourceSansPro-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:119080
+FileModTime:579051270
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro
+NameArray:0,Win,1,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-Bold
+FamilyName:Source Sans Pro
+StyleName:Bold
+MenuName:Source Sans Pro
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Source Sans Pro Bold
+WritingScript:Roman
+OutlineFileName:/Users/jensedler/Library/Mobile Documents/com~apple~CloudDocs/kickbox_files/Kickbox Materials - German/04 NABC CANVAS A3 GERMAN/Document fonts/SourceSansPro-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:118604
+FileModTime:579051270
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro Bold
+NameArray:0,Win,1,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-Semibold
+FamilyName:Source Sans Pro
+StyleName:Semibold
+MenuName:Source Sans Pro Semibold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Source Sans Pro Semibold
+WritingScript:Roman
+OutlineFileName:/Users/jensedler/Library/Mobile Documents/com~apple~CloudDocs/kickbox_files/Kickbox Materials - German/04 NABC CANVAS A3 GERMAN/Document fonts/SourceSansPro-Semibold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:118804
+FileModTime:579051270
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro Semibold
+NameArray:0,Win,1,Source Sans Pro Semibold
+NameArray:0,Win,16,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/jensedler/Library/Mobile Documents/com~apple~CloudDocs/kickbox_files/Kickbox Materials - German/04 NABC CANVAS A3 GERMAN/Document fonts/AdobeFnt14.lst
+FileLength:1203
+FileModTime:579051270
+%EndFont
+
