@@ -1,5 +1,5 @@
 # Die WAGO Kickbox
-![Inhalte der WAGO Kickbox](/inhalte_kickbox.png)
+![Inhalte der WAGO Kickbox](/inhalte_kickbox_logo.jpg)
 
 **Innovationen entstehen immer dort, wo Menschen für ein Thema brennen.**
 
